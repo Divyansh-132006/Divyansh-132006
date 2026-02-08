@@ -1,6 +1,36 @@
 # 💫 About Me:
-I am a Computer Science undergraduate at Galgotias University, focused on building production-oriented web applications with an emphasis on backend reliability and real-world usability.<br><br>My primary experience lies in full-stack development using the MERN stack, with growing exposure to Java-based backend systems and AI-powered application features.<br><br>I actively build, refactor, and maintain projects that prioritize clean architecture, modular code, and practical problem-solving. All significant work is version-controlled and documented on GitHub.<br>Download Resume : https://drive.google.com/file/d/1PDJ0BXI2Q-uup_c4PoVVplv7TjjU0hmn/view?usp=drive_link <br><br>Selected Projects<br><br>Client Project Repository (Full-Stack Web Application)<br>GitHub: https://github.com/Divyansh-132006/Client-Project_Krishna-Trader<br><br>A production-style web application designed with real client requirements, focusing on real-world project implementation, role-based access,.<br><br>Gen-AI Integrated Web Application (On going Project)<br>GitHub: https://github.com/Divyansh-132006/Antara-AI-Platform<br>Generative-Ai model developing with tech MERN, Features are Surpirsed for users.<br><br>GitHub: https:https://github.com/Divyansh-132006/AI-CareerResponse-By-Team-NexGen-Coders<br><br>AA Java, SpringBoot and React.Js based GenAI project which handles user query and ANswer it as per demand.<br><br>Alongside academics, I take on selective freelance and practice projects to build real-world development discipline, improve system design skills, and deliver client-ready solutions.
+I am a Computer Science undergraduate at Galgotias University focused on building production-oriented web applications with strong backend reliability, practical usability, and maintainable architecture. My goal is to develop systems that work beyond demos — applications that solve real problems and scale with real users.
 
+My primary experience is in full-stack development using the MERN stack, with growing exposure to Java-based backend development, Spring Boot ecosystems, and AI-integrated application workflows. I actively explore how AI can enhance product functionality rather than exist as a superficial feature.
+
+I regularly build, refactor, and maintain projects emphasizing:
+
+Clean and modular architecture
+
+Real-world problem solving
+
+Version control discipline (Git/GitHub workflows)
+
+Production-style deployment practices
+
+Continuous skill improvement through iterative projects
+
+Alongside academics, I selectively take freelance and practice projects to strengthen practical development discipline, system design thinking, and client-focused delivery standards.
+
+Portfolio: https://vaibhavup.netlify.app/
+
+Resume: https://drive.google.com/file/d/1PDJ0BXI2Q-uup_c4PoVVplv7TjjU0hmn/view
+
+Selected Work Highlights
+
+Client-Oriented Full-Stack Web Application
+A production-style system built around real client requirements, including structured backend workflows, authentication logic, and maintainable frontend architecture. The focus was practical deployment readiness rather than prototype-level implementation.
+
+Gen-AI Integrated Web Platform (Ongoing)
+Currently developing an AI-enabled web application that integrates generative AI capabilities into user workflows with emphasis on usability, system reliability, and meaningful feature design rather than experimental novelty.
+
+Java + Spring Boot + React AI Application
+A hybrid full-stack project combining Java backend architecture with modern frontend technologies to handle intelligent user queries and structured responses, focusing on scalable backend design principles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-upadhyay-594279325) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Divyansh7157044) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udivyansh93@gmail.com) 
