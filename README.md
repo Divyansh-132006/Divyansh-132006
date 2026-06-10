@@ -1,18 +1,10 @@
 # 💫 About Me:
-I am a Computer Science undergraduate at Galgotias University focused on building production-oriented web applications with strong backend reliability, practical usability, and maintainable architecture. My goal is to develop systems that work beyond demos — applications that solve real problems and scale with real users.
-
-My primary experience is in full-stack development using the MERN stack, with growing exposure to Java-based backend development, Spring Boot ecosystems, and AI-integrated application workflows. I actively explore how AI can enhance product functionality rather than exist as a superficial feature.
-
-I regularly build, refactor, and maintain projects emphasizing:
-Clean and modular architecture
-
+I am a Computer Science undergraduate at Galgotias University focused on building production-oriented web applications with strong backend reliability, practical usability, and maintainable architecture.
+My primary experience is in full-stack development using the MERN stack, with growing exposure to Java-based backend development, and AI-integrated application workflows. I actively explore how AI can enhance product functionality rather than exist as a superficial feature.
 Continuous skill improvement through iterative projects
 Alongside academics, I selectively take freelance and practice projects to strengthen practical development discipline, system design thinking, and client-focused delivery standards.
 
-Portfolio: https://vaibhavup.netlify.app/
-
-Resume: https://drive.google.com/file/d/1PDJ0BXI2Q-uup_c4PoVVplv7TjjU0hmn/view
-
+Portfolio: https://medivyanshupadhyay.netlify.app/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-upadhyay-594279325) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Divyansh7157044) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udivyansh93@gmail.com) 
 
