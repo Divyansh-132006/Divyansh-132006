@@ -110,8 +110,7 @@ Full-stack travel safety platform enabling authenticated users to report inciden
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyansh-132006&show_icons=true&theme=nord&border_color=94A3B8&title_color=94A3B8&text_color=cbd5e1&icon_color=94A3B8&bg_color=0f172a" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-132006&layout=compact&theme=nord&border_color=94A3B8&title_color=94A3B8&text_color=cbd5e1&bg_color=0f172a" height="165"/>
+
 
 <br/>
 
@@ -123,7 +122,6 @@ Full-stack travel safety platform enabling authenticated users to report inciden
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-132006&theme=nord&bg_color=0f172a&color=94a3b8&line=94a3b8&point=cbd5e1&hide_border=true" width="100%"/>
 
 </div>
 
@@ -140,7 +138,8 @@ Full-stack travel safety platform enabling authenticated users to report inciden
   <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=94A3B8" />
 </a>
 <a href="https://medivyanshupadhyay.netlify.app/">
-  <h2>Portfolio</h2>
+  <img src="https://img.shields.io/badge/Portfolio-6b7280?style=for-the-badge&logo=googlechrome&logoColor=white" alt ="Portfolio" />
+
 </a>
 
 </div>
