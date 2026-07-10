@@ -49,7 +49,6 @@ const divyansh = {
 
 <div align="left">
   <a href="https://github.com/Divyansh-132006/Automated_CRM__Pannel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-132006&repo=Automated_CRM__Pannel&theme=dark&border_color=94A3B8&title_color=94A3B8&text_color=cbd5e1&icon_color=94A3B8&bg_color=0f172a" />
   </a>
 </div>
 
@@ -71,7 +70,6 @@ Full-stack CRM for centralized management of leads, customers, finance records, 
 
 <div align="left">
   <a href="https://github.com/Divyansh-132006/Smart_Yatra_WebApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-132006&repo=Smart_Yatra_WebApp&theme=dark&border_color=94A3B8&title_color=94A3B8&text_color=cbd5e1&icon_color=94A3B8&bg_color=0f172a" />
   </a>
 </div>
 
@@ -140,6 +138,9 @@ Full-stack travel safety platform enabling authenticated users to report inciden
 </a>
 <a href="mailto:divyansh.upadhyay.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=94A3B8" />
+</a>
+<a href="https://medivyanshupadhyay.netlify.app/">
+  <h2>Portfolio</h2>
 </a>
 
 </div>
