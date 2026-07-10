@@ -139,6 +139,9 @@ Full-stack travel safety platform enabling authenticated users to report inciden
 <a href="mailto:divyansh.upadhyay.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=94A3B8" />
 </a>
+<a href="https://medivyanshupadhyay.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-6b7280?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
