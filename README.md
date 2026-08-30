@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=Divyansh%20Upadhyay&fontSize=45&fontColor=94a3b8&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
@@ -147,4 +147,9 @@ Full-stack travel safety platform enabling authenticated users to report inciden
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=120&section=footer" width="100%"/> -->
+
+
+
+
+https://leetcode.com/u/Divyansh2006/
