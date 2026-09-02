@@ -1,24 +1,103 @@
-# 💫 About Me:
-Hii visitors, I'm Divyansh Upadhyay a B-Tech Computer Science Student from Galgotias  University.<br>My technical skills include MERN Stack and Java for solving the real world problems using different Data Structure and Algorithms.<br>To 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/divyansh-upadhyay-594279325/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Divyansh7157044) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyansh.upadhyay.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Divyansh-132006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Divyansh-132006&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divyansh-132006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Divyansh-132006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+Divyansh Upadhyay
+Software Engineer · Full Stack Developer
+Building scalable web applications, backend systems and AI-powered solutions.
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+</div>
 ---
-[![](https://komarev.com/ghpvc/?username=Divyansh-132006&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+About Me
+I'm a Software Engineer and Full Stack Developer interested in building
+scalable applications and exploring modern software engineering technologies.
+Full Stack Development
+Backend Engineering
+Real-Time Applications
+Currently focused on improving my backend engineering, exploring system design and
+AI development skills.
+---
+Tech Stack
+Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+`REST API` · `gRPC` · `Socket.IO`
+Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
+</p>
+Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode,idea,github" />
+</p>
+---
+Current Focus
+Area	Focus
+AI	AI Applications & LLM Engineering
+Frontend	React & Three.js
+Backend	Node.js, Go & API Development
+Architecture	System Design & Scalable Systems
+Open Source	Building and contributing to projects
+---
+Featured Projects
+SmartYatra
+SmartYatra web format application for travellers which provide the safety for them and suggest the safest path way to reach their destination.
+Tech: React · Node.js · Express · MongoDB
+---
+NexusAI- Quiz Platform
+Real-time Quiz Application with live fetching real time questions and scoring it based on result.
+Tech: React · Node.js · Socket.IO · Express
+---
+Krishna Group Enterprises 
+Professional business website developed for a business organization.
+Tech: React · Tailwind · HTML · CSS
+---
+REST API in Go
+Dockerized REST API built using the Go ecosystem.
+Tech: Go · Gin · Docker · REST
+---
+---
+Coding Profiles
+<div align="center">
+![LeetCode](https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-350%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-5★_C_|_5★_C++-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+</div>
+---
+GitHub Statistics
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mearjuntripathi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearjuntripathi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+---
+GitHub Streak
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mearjuntripathi&theme=tokyonight&hide_border=true" />
+</div>
+---
+GitHub Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mearjuntripathi&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+---
+Let's Connect
+<div align="center">
+![GitHub](https://img.shields.io/badge/GitHub-Divyansh-132006-181717?style=for-the-badge&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-divyansh-upadhyay-594279325-0A66C2?style=for-the-badge&logo=linkedin)
+![LeetCode](https://img.shields.io/badge/LeetCode-Divyansh-132006-FFA116?style=for-the-badge&logo=leetcode)
+![Email](https://img.shields.io/badge/Email-divyansh.upadhyay.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
+---
+<div align="center">
+Build. Learn. Improve. Repeat.
+</div>
