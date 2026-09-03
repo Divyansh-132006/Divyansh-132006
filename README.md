@@ -53,7 +53,7 @@ Currently focused on improving my backend engineering, exploring system design a
 |------|-------|
 | AI | AI Applications & LLM Engineering |
 | Frontend | React & Three.js |
-| Backend | Node.js, Go & API Development |
+| Backend | Node.js,  Rest API Development |
 | Architecture | System Design & Scalable Systems |
 | Open Source | Building and contributing to projects |
 
