@@ -43,7 +43,7 @@ Currently focused on improving my backend engineering, exploring system design a
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" /></p>
 
 **Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode,idea,github" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,postman,vscode,github" /></p>
 
 ---
 
