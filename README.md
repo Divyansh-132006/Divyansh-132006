@@ -87,14 +87,7 @@ Dockerized REST API built using the Go ecosystem.
 
 ## Coding Profiles
 
-<div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-350%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-5★_C_|_5★_C++-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-
-</div>
 
 ---
 
