@@ -61,25 +61,17 @@ Currently focused on improving my backend engineering, exploring system design a
 
 ## Featured Projects
 
-### SmartYatra
-Web application for travellers that provides safety features and suggests the safest pathway to reach their destination.
+### RoleFit Resume
+RoleFit Resume is a platform where user can build there JD based resume just by drag and drop the originalr resume and Job Description.
+Mainaly when user upload there resume it get give into chunks based  in the Section it have, after it get stored in the vector DataBase Qdrant after it in the backend with uploaded Job Description, LLM model compare vector Db with JD and than analyze it and bring out the proper Job Description Resume with proper good ATS score.
 **Tech:** React · Node.js · Express · MongoDB
-[Repo](#) · [Live Demo](#)
+ [https://rolefitresume.netlify.app](#)
 
-### NexusAI — Quiz Platform
-Real-time quiz application that live-fetches questions and scores results instantly.
-**Tech:** React · Node.js · Socket.IO · Express
-[Repo](#) · [Live Demo](#)
 
 ### Krishna Group Enterprises
-Professional business website developed for a business organization.
+Professional business website developed for a business organization as freelance work. 
 **Tech:** React · Tailwind · HTML · CSS
-[Repo](#) · [Live Demo](#)
-
-### REST API in Go
-Dockerized REST API built using the Go ecosystem.
-**Tech:** Go · Gin · Docker · REST
-[Repo](#)
+[https://yourkrishnagroup.com/]()
 
 > Replace the `#` links above with your actual repo/demo URLs.
 
