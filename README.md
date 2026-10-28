@@ -65,20 +65,13 @@ Currently focused on improving my backend engineering, exploring system design a
 RoleFit Resume is a platform where user can build there JD based resume just by drag and drop the originalr resume and Job Description.
 Mainaly when user upload there resume it get give into chunks based  in the Section it have, after it get stored in the vector DataBase Qdrant after it in the backend with uploaded Job Description, LLM model compare vector Db with JD and than analyze it and bring out the proper Job Description Resume with proper good ATS score.
 **Tech:** React · Node.js · Express · MongoDB
- [https://rolefitresume.netlify.app](#)
+ [Live Demo](https://rolefitresume.netlify.app)
 
 
 ### Krishna Group Enterprises
 Professional business website developed for a business organization as freelance work. 
 **Tech:** React · Tailwind · HTML · CSS
-[https://yourkrishnagroup.com/]()
-
-> Replace the `#` links above with your actual repo/demo URLs.
-
----
-
-
----
+[Live Demo](https://yourkrishnagroup.com/)
 
 ## GitHub Streak
 
