@@ -79,16 +79,6 @@ Professional business website developed for a business organization as freelance
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-132006&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-132006&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
